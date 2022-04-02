@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolmalin&label=Profile%20views&color=0e75b6&style=flat" alt="dolmalin" /> </p>
 
-- 🔭 I’m currently working on **way too much shit**
+- 🔭 I’m currently working on **way too much stuff**
 
 - 🌱 I’m currently learning **C and Python**
 
 - 📫 How to reach me **dolmalinn@gmail.com**
-
-- ⚡ Fun fact **sometimes it hurts when I pee**
 
 <p align="left">
 </p>
