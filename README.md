@@ -9,11 +9,12 @@
 - 🔭 Currently student at [42Lyon](https://42lyon.fr/)  
   
 
-- 🌱 Focused on Deep Learning and Low-level programming  
+- 🧠 Working on a collaborative AI project with [42AI](https://github.com/42-AI)
   
+  
+ - 🌱 Focused on Deep Learning and Low-level programming
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
