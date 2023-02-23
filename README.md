@@ -5,7 +5,7 @@
 ## <div align="center">Xx_D0lmal1_xX</div> 
 #### <div align="center"> Software engineer student and Deep Learning enthusiast</div>
 <div align="center"> 
-  <a href="https://mastodon.social/@dolmalin">
+  <a href="https://piaille.fr/@dolmalin>
     <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white">
   </a>
   <a href="https://discord.com/users/223140470249750528">
