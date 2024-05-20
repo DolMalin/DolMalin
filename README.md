@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"> 
-👉 <a href="https://gitlab.com/DolMalin/python-demoapp">Demo implementation of a CICD pipeline</a> 👈
+👉 <a href="https://gitlab.com/DolMalin/python-demoapp" target="_blank">Demo implementation of a CICD pipeline</a> 👈
 </div>
   
 #### Languages
