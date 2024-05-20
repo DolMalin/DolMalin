@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
+
+👉 <a href="https://gitlab.com/DolMalin/python-demoapp">Demo implementation of a CICD pipeline</a>
   
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
