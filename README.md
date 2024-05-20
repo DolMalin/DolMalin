@@ -34,6 +34,7 @@
 
 
 #### ML/DL
+![Pytorch](https://camo.githubusercontent.com/67a152170f8d67edd354a3b07fe98256189f112d6ec5060049017555ddb3d995/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5079546f72636826636f6c6f723d454534433243266c6f676f3d5079546f726368266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
